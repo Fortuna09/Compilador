@@ -1,0 +1,7 @@
+programa teste1
+    inteiro a
+    logico b
+inicio
+    a <- 10
+    leia a
+fimprograma
